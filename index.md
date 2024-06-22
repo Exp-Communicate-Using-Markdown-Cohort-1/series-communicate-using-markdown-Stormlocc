@@ -1,9 +1,9 @@
 # Entender el negocio
 ## Objetivos
 ### Mision
-### Visiom
-## Recursos
-# Entender los datos
-## Conmprer los endpoint
-## Vericiar
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
