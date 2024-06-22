@@ -1,6 +1,8 @@
 # Entender el negocio
 ## Objetivos
+lorem
 ### Mision
+
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
