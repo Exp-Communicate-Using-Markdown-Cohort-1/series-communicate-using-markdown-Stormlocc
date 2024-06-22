@@ -1,7 +1,5 @@
 # Entender el negocio
-## Objetivos
-lorem
-### Mision
+
 
 ```
 $ git init
