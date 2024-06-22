@@ -1,10 +1,9 @@
 # Entender el negocio
 ## Objetivos
 ### Mision
-# }new 
 
-- [X] Turn on GitHub Pages
-- [X] Outline my portfolio
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
 - [X] Introduce myself to the world
 
 ```
